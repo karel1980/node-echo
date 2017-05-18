@@ -1,4 +1,4 @@
-FROM alpine-node
+FROM mhart/alpine-node
 MAINTAINER karel@vervaeke.info
 
 EXPOSE 9000
