@@ -1,4 +1,4 @@
-IMAGE alpine-node
+FROM alpine-node
 MAINTAINER karel@vervaeke.info
 
 EXPOSE 9000
